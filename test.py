@@ -1,10 +1,4 @@
 import requests
-from PIL import Image
-import io
-import tkinter as tk
-from tkinter import ttk
-from PIL import ImageTk
-import json
 
 def main():
     print("Testing microservice with sample cover (Eusexua by FKA Twigs)")
